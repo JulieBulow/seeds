@@ -1,0 +1,2 @@
+# seeds
+fasta seeds mammals
